@@ -19,4 +19,6 @@ lxml==4.9.1  # Dependency for BeautifulSoup to parse HTML/XML
 pytz==2023.3  # For timezone handling
 celery==5.2.7  # Asynchronous task queue
 redis==4.5.1  # Redis client for Flask and Celery integration
+setuptools>=65.5.0
+
 
